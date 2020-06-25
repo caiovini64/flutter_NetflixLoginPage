@@ -1,4 +1,4 @@
 # Netflix Login Page Redesign with Flutter and Figma
 
 
-<img src="Netflix.jpg"  width="250"/>
+<img src="Netflix.jpg"  width="500"/>
